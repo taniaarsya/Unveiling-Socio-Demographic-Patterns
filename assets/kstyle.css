@@ -1,0 +1,18 @@
+h1 {
+    font-size: 1.8em;
+    font-weight: bolder;
+    color: #f77f00;
+
+}
+
+h2 {
+    font-size: 1.6em;
+    font-weight: bolder;
+    color: #532b88;
+}
+
+h3,h4 {
+    font-size: 1.3em;
+    font-weight: bolder;
+    color: #231942;
+}
